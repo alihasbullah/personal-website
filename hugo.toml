@@ -1,4 +1,133 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'PaperMod'
+# =============================================
+# BASIC SITE CONFIGURATION
+# =============================================
+baseURL = "https://example.org/"
+title = "Ali Hasbullah"
+theme = "PaperMod"
+
+# Default language; akan di-override di section [languages]
+defaultContentLanguage = "id"
+defaultContentLanguageInSubdir = false
+
+# Enable code highlighting & emoji
+enableEmoji = true
+enableRobotsTXT = true
+
+# =============================================
+# PAGINATION
+# =============================================
+[pagination]
+  pagerSize = 10
+
+# =============================================
+# MULTILINGUAL CONFIGURATION
+# =============================================
+[languages]
+
+  # --- Bahasa Indonesia (default) ---
+  [languages.id]
+    languageCode = "id-ID"
+    languageName = "Bahasa Indonesia"
+    weight = 1
+    title = "Ali Hasbullah"
+
+    [languages.id.params]
+      description = "Catatan, project, dan tulisan dari Ali Hasbullah."
+      
+    [[languages.id.menu.main]]
+      name = "Tentang"
+      url = "/about/"
+      weight = 10
+    [[languages.id.menu.main]]
+      name = "Tulisan"
+      url = "/posts/"
+      weight = 20
+    [[languages.id.menu.main]]
+      name = "Project"
+      url = "/projects/"
+      weight = 30
+    [[languages.id.menu.main]]
+      name = "Cari"
+      url = "/search/"
+      weight = 40
+
+  # --- English ---
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 2
+    title = "Ali Hasbullah"
+
+    [languages.en.params]
+      description = "Notes, projects, and writings by Ali Hasbullah."
+
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/about/"
+      weight = 10
+    [[languages.en.menu.main]]
+      name = "Posts"
+      url = "/en/posts/"
+      weight = 20
+    [[languages.en.menu.main]]
+      name = "Projects"
+      url = "/en/projects/"
+      weight = 30
+    [[languages.en.menu.main]]
+      name = "Search"
+      url = "/en/search/"
+      weight = 40
+
+# =============================================
+# PAPERMOD THEME PARAMETERS
+# =============================================
+[params]
+  env = "production"
+  defaultTheme = "auto"           # auto | light | dark
+  disableThemeToggle = false       # tampilkan toggle dark/light
+  
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  
+  # Profile mode: tampilan landing page seperti kartu nama
+  [params.profileMode]
+    enabled = true
+    title = "Ali Hasbullah"
+    subtitle = "Catatan, project, dan tulisan."
+    imageUrl = ""
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Foto profil"
+    
+    [[params.profileMode.buttons]]
+      name = "Tulisan"
+      url = "posts"
+    [[params.profileMode.buttons]]
+      name = "Project"
+      url = "projects"
+
+  # Home info mode: alternatif landing page (kalau profileMode disabled)
+  [params.homeInfoParams]
+    Title = "Halo, saya Ali"
+    Content = "Engineer dengan latar algoritma dan bahasa pemrograman lama. Tempat ini untuk catatan teknis, project, dan eksperimen."
+
+  # Social icons (akan tampil di profile mode atau home info)
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:ali.hasbullah@gmail.com"
+
+# =============================================
+# OUTPUT FORMATS (untuk fitur search)
+# =============================================
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
