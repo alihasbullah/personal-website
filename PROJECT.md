@@ -37,7 +37,7 @@ Multilingual: Bahasa Indonesia (default) dan English.
 
 - **Home** (`content/_index.md`): profile mode dengan tombol cepat ke Posts dan Projects
 - **About** (`content/about.md`): bio, background, kontak
-- **Posts** (`content/posts/`): artikel blog, sorted by date
+- **Posts** (`content/posts/`): tulisan teknis dan reflektif, sorted by date
 - **Projects** (`content/projects/`): project showcase
 - **Search** (`content/search.md`): client-side fuzzy search via Fuse.js (built-in PaperMod)
 
@@ -64,7 +64,7 @@ Multilingual: Bahasa Indonesia (default) dan English.
 - [ ] Bio singkat untuk hero homepage (2-3 kalimat)
 - [ ] Bio panjang di About (background, minat, kontak)
 - [ ] 2-3 project asli dengan deskripsi, tech stack, link repo
-- [ ] 1 artikel teknis pertama yang menunjukkan ekspertis
+- [x] 1 artikel pertama (esai reflektif tentang ekonomi Indonesia)
 - [ ] Foto profil (opsional)
 - [ ] Update social links di `hugo.toml` (saat ini placeholder)
 
