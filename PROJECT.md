@@ -4,7 +4,7 @@ Personal website Ali Hasbullah. Tempat memperkenalkan diri, memamerkan project, 
 
 ## Status Saat Ini
 
-Website live di `https://personal-website.pages.dev`. Struktur dasar selesai, konten masih placeholder.
+Website live di `https://personal-website-eat.pages.dev`. Halaman About sudah berisi konten asli; halaman lain masih placeholder.
 
 ## Stack & Architecture
 
