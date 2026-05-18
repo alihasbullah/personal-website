@@ -5,6 +5,11 @@ draft: false
 tags: ["ekonomi", "indonesia", "korupsi", "refleksi", "esai"]
 categories: ["esai"]
 summary: "Sebuah dugaan nakal: angka pertumbuhan ekonomi Indonesia yang stagnan di lima persen mungkin sebagian ditopang oleh perputaran uang gelap—tapi bertahannya bangsa ini sebenarnya berdiri di atas iguh dan kesabaran rakyat kecil."
+cover:
+    image: "/images/berkah-korupsi-cover.png"
+    alt: "Berkah Korupsi"
+    relative: false
+    hidden: false
 ---
 
 Saya selalu terheran-heran setiap kali membaca berita tentang pertumbuhan ekonomi Indonesia. Angkanya itu-itu saja: lima persen, lima koma sekian, bergerak naik-turun tipis seperti orang yang sedang mengatur napas supaya kelihatan tenang. Bertahun-tahun begitu. Krisis global datang, perang pecah di Ukraina, Timur Tengah bergolak, harga minyak naik-turun seperti permainan ombak, bank sentral dunia menaikkan suku bunga agresif—dan Indonesia, dengan gemoy-nya sendiri, tetap tumbuh lima persen. Plonga-plongo tapi jalan terus.
