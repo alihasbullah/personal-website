@@ -1,7 +1,7 @@
 # =============================================
 # BASIC SITE CONFIGURATION
 # =============================================
-baseURL = "https://example.org/"
+baseURL = "https://alihasbullah.com/"
 title = "Ali Hasbullah"
 theme = "PaperMod"
 
