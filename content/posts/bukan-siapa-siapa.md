@@ -9,7 +9,7 @@ cover:
     image: "/images/bukan-siapa-siapa.jpg"
     alt: "nobody"
     relative: false
-    hidden: false
+    hidden: true
 ---
 
 Seingatku dulu ketika pergi plesiran, aku sungguh menikmati destinasinya. Sekadar diajak nglencer ke Pantai Ayah Gombong yang pasirnya cokelat itu  saja sudah bukan main gembiranya, dan masih terekam jelas semua adegannya. Sekarang ke mana saja rasanya lewat begitu saja. Mungkin dulu jalan-jalan itu kejadian langka setiap beberapa tahun sekali sehingga sangat berkesan. Bisa jadi. Tapi yang jelas sekarang aku kurang bisa menikmatinya karena pikiranku di sana fokus -atau paling tidak terdistraksi- bukan pada tempat wisatanya, tetapi bagaimana mendapatkan gambar dan selfie terbaik untuk aku kabarkan pada dunia.
@@ -27,3 +27,4 @@ Atau mungkin hasrat itu sudah hard-wired di otak manusia ya. Kelihatannya hasrat
 Kalaupun benar itu hard-wired, seperti halnya nafsu lainnya, tentu tidak selayaknya untuk dibiarkan tanpa kendali. Seharusnya dipelihara sebatas untuk survival dalam menjalankan tugas manusia sebagai hamba. Bukan kemudian menjadi tujuan hidup utama yang dikejar-kejar dengan menghalalkan segala cara. Tujuan utama penciptaan manusia adalah untuk mengenal dan mengabdi kepada Sang Maha Pencipta. Dan bukannya mengenal dan membesarkan eksistensinya sendiri yang akan menjadi penghalang utama untuk mengenal Yang Sejati.  Atau dengan kata lain tujuan utama eksistensi manusia adalah meniadakan eksistensinya sendiri. Absurd memang buat kita. Tapi ya begitulah, Allah berhak melakukan apapun semau-mau-Nya. Kalau engkau tidak mau tunduk silakan cari bumi lain yang bukan kepunyaan-Nya. 
 
 Jadi bersyukur dan berbahagialah bagi siapa saja yang bukan siapa-siapa. Karena itu memudahkanmu mendekatkan diri kepada-Nya. 
+
