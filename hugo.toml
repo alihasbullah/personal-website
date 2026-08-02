@@ -96,9 +96,12 @@ enableRobotsTXT = true
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
   
+  [params.homeInfoParams]
+  Title = "Halo, saya Ali 👋"
+  Content = "Catatan, project, dan tulisan soal hal-hal yang sedang saya pelajari dan kerjakan."
   # Profile mode: tampilan landing page seperti kartu nama
   [params.profileMode]
-    enabled = true
+    enabled = false
     title = "Ali Hasbullah"
     subtitle = "Catatan, project, dan tulisan."
     imageUrl = ""
