@@ -6,7 +6,7 @@ tags: ["ekonomi", "indonesia", "korupsi", "refleksi", "esai"]
 categories: ["esai"]
 summary: "Sebuah dugaan nakal: angka pertumbuhan ekonomi Indonesia yang stagnan di lima persen mungkin sebagian ditopang oleh perputaran uang gelap—tapi bertahannya bangsa ini sebenarnya berdiri di atas iguh dan kesabaran rakyat kecil."
 cover:
-    image: "/images/berkah-korupsi-cover.png"
+    image: "/images/berkah-korupsi-cover.jpg"
     alt: "Berkah Korupsi"
     relative: false
     hidden: false
