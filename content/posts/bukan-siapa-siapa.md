@@ -9,7 +9,8 @@ cover:
     image: "/images/bukan-siapa-siapa.jpg"
     alt: "nobody"
     relative: false
-    hidden: true
+    hidden: false
+    hiddenInSingle: true
 ---
 
 Seingatku dulu ketika pergi plesiran, aku sungguh menikmati destinasinya. Sekadar diajak nglencer ke Pantai Ayah Gombong yang pasirnya cokelat itu  saja sudah bukan main gembiranya, dan masih terekam jelas semua adegannya. Sekarang ke mana saja rasanya lewat begitu saja. Mungkin dulu jalan-jalan itu kejadian langka setiap beberapa tahun sekali sehingga sangat berkesan. Bisa jadi. Tapi yang jelas sekarang aku kurang bisa menikmatinya karena pikiranku di sana fokus -atau paling tidak terdistraksi- bukan pada tempat wisatanya, tetapi bagaimana mendapatkan gambar dan selfie terbaik untuk aku kabarkan pada dunia.
