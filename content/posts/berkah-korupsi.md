@@ -10,7 +10,6 @@ cover:
     alt: "Berkah Korupsi"
     relative: false
     hidden: false
-    hiddenInSingle: true
 ---
 
 Saya selalu terheran-heran setiap kali membaca berita tentang pertumbuhan ekonomi Indonesia. Angkanya itu-itu saja: lima persen, lima koma sekian, bergerak naik-turun tipis seperti orang yang sedang mengatur napas supaya kelihatan tenang. Bertahun-tahun begitu. Krisis global datang, perang pecah di Ukraina, Timur Tengah bergolak, harga minyak naik-turun seperti permainan ombak, bank sentral dunia menaikkan suku bunga agresif—dan Indonesia, dengan gemoy-nya sendiri, tetap tumbuh lima persen. Plonga-plongo tapi jalan terus.

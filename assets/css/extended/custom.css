@@ -1,0 +1,31 @@
+/* Cover jadi thumbnail kecil di halaman listing */
+.post-entry {
+  position: relative;
+  overflow: hidden;
+}
+
+.post-entry .entry-cover {
+  float: left;
+  width: 150px;
+  margin: 0 18px 6px 0;
+  text-align: left;
+}
+
+.post-entry .entry-cover img {
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 0;
+}
+
+/* Sedikit lebih kecil di layar HP */
+@media (max-width: 500px) {
+  .post-entry .entry-cover,
+  .post-entry .entry-cover img {
+    width: 110px;
+  }
+  .post-entry .entry-cover img {
+    height: 80px;
+  }
+}

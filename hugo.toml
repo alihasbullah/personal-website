@@ -95,6 +95,7 @@ enableRobotsTXT = true
   TocOpen = false
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
+  disableSpecial1stPost = true
   
   [params.homeInfoParams]
   Title = "Halo, saya Ali 👋"
