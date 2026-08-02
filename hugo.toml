@@ -98,7 +98,12 @@ enableRobotsTXT = true
   
   [params.homeInfoParams]
   Title = "Halo, saya Ali 👋"
-  Content = "Catatan, project, dan tulisan soal hal-hal yang sedang saya pelajari dan kerjakan."
+  Content = """
+<div style="display:flex;align-items:center;gap:1.2rem;flex-wrap:wrap;margin-top:0.5rem;">
+  <img src="/images/profile.jpg" alt="Ali Hasbullah" style="width:130px;height:130px;border-radius:50%;object-fit:cover;flex-shrink:0;">
+  <p style="margin:0;">Catatan, project, dan tulisan soal hal-hal yang sedang saya pelajari dan kerjakan. Sesekali soal teknologi, sesekali soal apa saja yang menarik perhatian saya.</p>
+</div>
+"""
   # Profile mode: tampilan landing page seperti kartu nama
   [params.profileMode]
     enabled = false
@@ -117,9 +122,10 @@ enableRobotsTXT = true
       url = "projects"
 
   # Home info mode: alternatif landing page (kalau profileMode disabled)
-  [params.homeInfoParams]
-    Title = "Halo, saya Ali"
-    Content = "Engineer dengan latar algoritma dan bahasa pemrograman lama. Tempat ini untuk catatan teknis, project, dan eksperimen."
+  
+
+  [markup.goldmark.renderer]
+    unsafe = true
 
   # Social icons (akan tampil di profile mode atau home info)
   [[params.socialIcons]]
