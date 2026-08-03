@@ -5,6 +5,8 @@ baseURL = "https://alihasbullah.com/"
 title = "Ali Hasbullah"
 theme = "PaperMod"
 
+disableLanguages = ["en"]
+
 # Default language; akan di-override di section [languages]
 defaultContentLanguage = "id"
 defaultContentLanguageInSubdir = false
