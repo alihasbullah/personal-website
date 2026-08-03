@@ -5,7 +5,7 @@ draft: false
 tags: ["tadabbur", "al-quran", "lailatul-qadr", "malam-kemuliaan"]
 categories: ["tadabbur"]
 cover:
-    image: "/images/surat-al-qadr-cover.jpg"
+    image: "static/images/surat-al-qadr-cover.jpg"
     alt: "Deskripsi gambar untuk accessibility dan SEO"
     relative: false
     hidden: false
