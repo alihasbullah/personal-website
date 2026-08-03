@@ -5,8 +5,8 @@ draft: false
 tags: ["tadabbur", "al-quran", "lailatul-qadr", "malam-kemuliaan"]
 categories: ["tadabbur"]
 cover:
-    image: "static/images/surat-al-qadr-cover.jpg"
-    alt: "Deskripsi gambar untuk accessibility dan SEO"
+    image: "/images/surat-al-qadr-cover.jpg"
+    alt: "Malam Kemuliaan"
     relative: false
     hidden: false
 summary: "Tadabbur ayat demi ayat Surat Al-Qadr: memaknai lailatul qadr sebagai malam penentuan bagi seluruh sisa hidup kita."
