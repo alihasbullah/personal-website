@@ -4,6 +4,11 @@ date: 2026-08-03
 draft: false
 tags: ["tadabbur", "al-quran", "lailatul-qadr", "malam-kemuliaan"]
 categories: ["tadabbur"]
+cover:
+    image: "/images/surat-al-qadr-cover.jpg"
+    alt: "Deskripsi gambar untuk accessibility dan SEO"
+    relative: false
+    hidden: false
 summary: "Tadabbur ayat demi ayat Surat Al-Qadr: memaknai lailatul qadr sebagai malam penentuan bagi seluruh sisa hidup kita."
 ---
 
