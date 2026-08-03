@@ -32,24 +32,32 @@ enableRobotsTXT = true
     title = "Ali Hasbullah"
 
     [languages.id.params]
-      description = "Catatan, project, dan tulisan dari Ali Hasbullah."
+      description = "Tulisan personal dan profesional dari Ali Hasbullah."
       
     [[languages.id.menu.main]]
       name = "Tentang"
       url = "/about/"
       weight = 10
     [[languages.id.menu.main]]
-      name = "Tulisan"
-      url = "/posts/"
+      name = "Refleksi"
+      url = "/refleksi/"
       weight = 20
     [[languages.id.menu.main]]
-      name = "Project"
-      url = "/projects/"
+      name = "Tadabbur"
+      url = "/tadabbur/"
       weight = 30
+    [[languages.id.menu.main]]
+      name = "Opini"
+      url = "/opini/"
+      weight = 40
+    [[languages.id.menu.main]]
+      name = "Profesional"
+      url = "/profesional/"
+      weight = 50
     [[languages.id.menu.main]]
       name = "Cari"
       url = "/search/"
-      weight = 40
+      weight = 60
 
   # --- English ---
   [languages.en]
@@ -96,6 +104,7 @@ enableRobotsTXT = true
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
   disableSpecial1stPost = true
+  mainSections = ["refleksi", "tadabbur", "opini", "profesional"]
   
   [params.homeInfoParams]
   Title = "Halo, saya Ali 👋"
