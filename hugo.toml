@@ -141,8 +141,8 @@ enableRobotsTXT = true
 
   # Social icons (akan tampil di profile mode atau home info)
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/"
+    name = "instagram"
+    url = "https://instagram.com/alihasbullah1"
   [[params.socialIcons]]
     name = "email"
     url = "mailto:ali.hasbullah@gmail.com"
