@@ -4,6 +4,11 @@ date: 2026-08-04
 draft: false
 tags: ["dunia-akhirat", "sekularisme", "ulama", "cak-nun", "korupsi"]
 categories: ["refleksi"]
+cover:
+    image: "/images/semua-urusan-agama-cover.jpg"
+    alt: "Kita mungkin tidak pernah tahu kebenaran sejati"
+    relative: false
+    hidden: false
 summary: "Ungkapan populer yang memisahkan urusan dunia dan akhirat itu bukan hadits — dan cara berpikir sekuler di baliknya justru menyimpangkan makna hidup beragama."
 ---
 
