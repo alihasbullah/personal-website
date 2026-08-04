@@ -4,6 +4,11 @@ date: 2026-08-04
 draft: false
 tags: ["pencitraan", "media", "kepemimpinan", "kritik-sosial", "politik"]
 categories: ["opini"]
+cover:
+    image: "/images/sihir-nasional-cover.jpg"
+    alt: "Raja Palsu"
+    relative: false
+    hidden: false
 summary: "Dari foto lanskap yang dipermak sampai citra pemimpin yang dipoles media — sebuah renungan tentang pencitraan sebagai sihir yang menutupi kebenaran."
 ---
 
