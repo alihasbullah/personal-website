@@ -4,6 +4,11 @@ date: 2026-08-04
 draft: false
 tags: ["al-quran", "tafsir", "tadabbur", "terjemah", "bahasa"]
 categories: ["refleksi"]
+cover:
+    image: "/images/terjemah-tafsir-tadabbur-cover.jpg"
+    alt: "Kita mungkin tidak pernah tahu kebenaran sejati"
+    relative: false
+    hidden: false
 summary: "Merenungkan perbedaan antara terjemah, tafsir, dan tadabbur Al-Qur'an — dan mengapa kita tak boleh berhenti mencari kebenaran, sekaligus tak merasa paling benar."
 ---
 
