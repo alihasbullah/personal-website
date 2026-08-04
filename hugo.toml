@@ -53,13 +53,17 @@ enableRobotsTXT = true
       url = "/opini/"
       weight = 40
     [[languages.id.menu.main]]
+      name = "Serpih"
+      url = "/serpih/"
+      weight = 50
+    [[languages.id.menu.main]]
       name = "Profesional"
       url = "/profesional/"
-      weight = 50
+      weight = 60
     [[languages.id.menu.main]]
       name = "Cari"
       url = "/search/"
-      weight = 60
+      weight = 70
 
   # --- English ---
   [languages.en]
