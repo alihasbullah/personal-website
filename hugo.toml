@@ -97,7 +97,7 @@ enableRobotsTXT = true
 # =============================================
 [params]
   env = "production"
-  defaultTheme = "auto"           # auto | light | dark
+  defaultTheme = "dark"           # auto | light | dark
   disableThemeToggle = false       # tampilkan toggle dark/light
   
   ShowReadingTime = true
