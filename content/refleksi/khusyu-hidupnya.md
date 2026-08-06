@@ -4,6 +4,11 @@ date: 2026-08-04
 draft: false
 tags: ["khusyu", "shalat", "kehadiran", "muhasabah", "medsos"]
 categories: ["refleksi"]
+cover:
+    image: "/images/khusyu-hidupnya-cover.jpg"
+    alt: "Khusyu"
+    relative: false
+    hidden: false
 summary: "Kita hanya bisa khusyu' dalam shalat ketika khusyu' dalam hidup — sebuah muhasabah tentang pikiran yang tak pernah sepenuhnya hadir di sini dan saat ini."
 ---
 
