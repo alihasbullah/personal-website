@@ -1,6 +1,6 @@
 ---
 title: "Ya Allah, Mohon Intervensi-Mu"
-date: 2026-08-06T14:30:00+07:00
+date: 2026-08-07T09:19:54+07:00
 draft: false
 tags: ["doa", "indonesia", "korupsi", "maiyah", "kritik-sosial"]
 categories: ["opini"]
