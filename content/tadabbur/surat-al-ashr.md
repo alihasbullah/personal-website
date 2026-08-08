@@ -7,7 +7,7 @@ categories: ["tadabbur"]
 summary: "Tadabbur ayat demi ayat Surat Al-'Ashr: demi waktu, semua manusia merugi kecuali yang beriman, beramal saleh, dan saling menasihati dalam kebenaran dan kesabaran."
 cover:
     image: "/images/surat-al-ashr-cover.jpg"
-    alt: "Deskripsi gambar sesungguhnya"
+    alt: "senja al ashr"
     relative: false
     hidden: false
 ---
