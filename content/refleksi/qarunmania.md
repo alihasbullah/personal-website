@@ -4,6 +4,11 @@ date: 2026-08-08T09:17:05+07:00
 draft: false
 tags: ["harta", "sedekah", "dunia", "qarun", "ikhlas"]
 categories: ["refleksi"]
+cover:
+    image: "/images/qarunmania-cover.jpg"
+    alt: "Deskripsi gambar sesungguhnya"
+    relative: false
+    hidden: false
 summary: "Diam-diam kita ingin kaya raya sekaligus masuk surga, dan bersedekah dengan harapan balasan berlipat — padahal Tuhan justru melarang memberi karena mengharap lebih."
 ---
 
