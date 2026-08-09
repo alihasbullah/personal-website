@@ -110,7 +110,7 @@ enableRobotsTXT = true
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
   disableSpecial1stPost = true
-  mainSections = ["refleksi", "tadabbur", "opini", "profesional"]
+  mainSections = ["refleksi", "opini", "profesional"]
   
   [params.homeInfoParams]
   Title = "Salam"
